@@ -1,0 +1,29 @@
+20:23:03  [main] 	Initializing Control Panel
+20:23:03  [main] 	Windows Version:   64-bit
+20:23:03  [main] 	XAMPP Version: 8.0.28
+20:23:03  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:23:03  [main] 	Running with Administrator rights - good!
+20:23:03  [main] 	XAMPP Installation Directory: "c:\xampp_new\"
+20:23:03  [main] 	Checking for prerequisites
+20:23:03  [main] 	Required XAMPP prerequisite not found!
+20:23:03  [main] 	You do not appear to have the Microsoft Visual C++ 2008 Runtimes installed
+20:23:03  [main] 	This is required for XAMPP to fully function
+20:23:03  [main] 	http://www.microsoft.com/download/en/details.aspx?id=5582
+20:23:03  [main] 	Initializing Modules
+20:23:03  [main] 	Starting Check-Timer
+20:23:03  [main] 	Control Panel Ready
+20:23:06  [Apache] 	Installing service...
+20:23:07  [Apache] 	Successful!
+20:23:09  [mysql] 	Installing service...
+20:23:09  [mysql] 	Successful!
+20:23:10  [Apache] 	Attempting to start Apache service...
+20:23:11  [Apache] 	Status change detected: running
+20:23:12  [mysql] 	Attempting to start MySQL service...
+20:23:13  [mysql] 	Status change detected: running
+20:23:19  [Apache] 	Attempting to stop Apache service...
+20:23:21  [Apache] 	Status change detected: stopped
+20:24:31  [Apache] 	Attempting to start Apache service...
+20:24:32  [Apache] 	Status change detected: running
+21:17:59  [main] 	Deinitializing Modules
+21:17:59  [main] 	Deinitializing Control Panel
+
